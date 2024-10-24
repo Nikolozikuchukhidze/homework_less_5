@@ -286,3 +286,107 @@ vertical-align: top;
     vertical-align: top;
     height: 242px;
 }
+/* contact us page */
+.intouch {
+    font-size: 36px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #000000;
+    text-align: center;
+    margin-top: 98px;
+
+}
+.under_intouch {
+    text-align: center;
+    width: 644px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #9F9F9F;
+    font-size: 16px;
+    margin: 8px auto 82px auto;
+}
+.infobox {
+    display: inline-block;
+    width: 502px;
+    padding-top: 102px;
+    margin-left: 82px;
+
+}
+.infotext {
+    display: inline-block;
+    vertical-align: top;
+    font-size: 24px;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.address_name {
+    font-size: 16px;
+    width: 100px;
+    height: 72px;
+    vertical-align: top;
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.aa {
+    width: 212px;
+    height: 72px;
+    display: inline-block;
+}
+.telnumb {
+    color: #000000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+}
+.mapbox {
+    display: inline-block;
+    width: 680px;
+    height: 374px;
+    vertical-align: top;
+    margin-left: 102px;
+}
+.map {
+    width: 100%;
+    height: 100%;
+    
+}
+/* new section */
+.articlediv {
+    margin: 137px 0 0 88px;
+    width: 817px;
+}
+.contact_title2 {
+    font-size: 30px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #000000;
+}
+.largetext {
+    font-size: 15px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #9F9F9F;
+    margin-top: 12px;
+    line-height: 22.5px;
+}
+.readmore {
+    font-size: 16px;
+    color: #000000;
+    line-height: 24px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    border-bottom: 1px solid #000000;
+    display: inline-block;
+    margin-top:  30px ;
+    padding-bottom: 12px;
+}
